@@ -1,0 +1,18 @@
+{
+  "name": "4.assignment",
+  "version": "1.0.0",
+  "description": "- Create a Node Project\r - Install `typescript` and `tsc`\r - Add Scripts to run the file.",
+  "main": "index.js",
+  "scripts": {
+    "start": "tsc src/1.ts --watch",
+    "start1": "tsc src/2.ts --watch",
+    "start2": "tsc src/3.ts --watch"
+  
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "tcs": "^10.0.2"
+  }
+}
